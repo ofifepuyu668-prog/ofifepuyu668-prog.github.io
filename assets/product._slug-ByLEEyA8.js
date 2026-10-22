@@ -1,1 +1,0 @@
-import{l as e}from"./link-B8GAROH7.js";import{t}from"./index-CUDSlDvp.js";import{a as n,c as r,i}from"./sie-BIIyMmrK.js";var a=e();function o(){let{product:e}=t.useLoaderData();return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n,{}),(0,a.jsx)(`main`,{className:`sie-pdp-main`,children:(0,a.jsx)(r,{product:e},e.slug)}),(0,a.jsx)(i,{})]})}export{o as component};
